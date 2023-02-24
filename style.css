@@ -1,0 +1,38 @@
+body {
+    font-family: 'Tilt Neon', Arial, Helvetica, sans-serif;
+    background-color: rgb(172, 254, 227);
+}
+main {
+    margin: auto;
+    align-items: center;
+    text-align: center;
+}
+h1 {
+    font-size: 3em;
+}
+section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+input{
+    width: 15%;
+    padding: 10px;
+    font-size: 1em;
+    text-align: center;
+}
+button {
+    width: 200px;
+    height: 40px;
+    font-size: 1em;
+    margin: 1em;
+    background-color: #272635;
+    color: #eeeeee;
+    border:none;
+}
+button:hover{
+    background-color: #545273;
+}
+p{
+    font-size: 2em;
+}
